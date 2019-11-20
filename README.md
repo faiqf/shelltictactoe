@@ -1,7 +1,7 @@
 # shelltictactoe
 simple multiplayer tictactoe game using python and running in python shell
 
-#requirement 
+#requirement  
 1.python
 
 
